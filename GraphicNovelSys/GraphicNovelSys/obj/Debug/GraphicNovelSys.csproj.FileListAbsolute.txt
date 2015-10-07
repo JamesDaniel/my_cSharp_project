@@ -1,0 +1,336 @@
+D:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.exe.config
+D:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.csprojResolveAssemblyReference.cache
+D:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Form1.resources
+D:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Properties.Resources.resources
+D:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.csproj.GenerateResource.Cache
+D:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.exe
+D:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.pdb
+D:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.exe
+D:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.pdb
+D:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Register_Member.resources
+E:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.exe.config
+E:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.exe
+E:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.pdb
+E:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.exe
+E:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.pdb
+E:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.csprojResolveAssemblyReference.cache
+E:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Author_Controls.resources
+E:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Form1.resources
+E:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Hybrid_Controls.resources
+E:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Properties.Resources.resources
+E:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Reader_Controls.resources
+E:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Register_Member.resources
+E:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.csproj.GenerateResource.Cache
+E:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Details.resources
+E:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.List_Members.resources
+E:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Category.resources
+E:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Upload_Novel.resources
+E:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.List_Novels.resources
+E:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Novel_Price.resources
+E:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Remove_Novel.resources
+D:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Author_Controls.resources
+D:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Category.resources
+D:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Details.resources
+D:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Novel_Price.resources
+D:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Download_Novel.resources
+D:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Hybrid_Controls.resources
+D:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.List_Members.resources
+D:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.List_Novels.resources
+D:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Reader_Controls.resources
+D:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Remove_Novel.resources
+D:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Upload_Novel.resources
+E:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Download_Novel.resources
+D:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Author_Income_Analysis.resources
+D:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Status.resources
+D:\First Project\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Reader_Purchase_Analysis.resources
+C:\Users\t00126681\Desktop\visual studio\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.exe.config
+C:\Users\t00126681\Desktop\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.exe
+C:\Users\t00126681\Desktop\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.pdb
+C:\Users\t00126681\Desktop\visual studio\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.exe
+C:\Users\t00126681\Desktop\visual studio\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.pdb
+C:\Users\t00126681\Desktop\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.csprojResolveAssemblyReference.cache
+C:\Users\t00126681\Desktop\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Author_Controls.resources
+C:\Users\t00126681\Desktop\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Author_Income_Analysis.resources
+C:\Users\t00126681\Desktop\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Category.resources
+C:\Users\t00126681\Desktop\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Details.resources
+C:\Users\t00126681\Desktop\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Status.resources
+C:\Users\t00126681\Desktop\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Novel_Price.resources
+C:\Users\t00126681\Desktop\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Download_Novel.resources
+C:\Users\t00126681\Desktop\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Form1.resources
+C:\Users\t00126681\Desktop\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Hybrid_Controls.resources
+C:\Users\t00126681\Desktop\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.List_Members.resources
+C:\Users\t00126681\Desktop\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.List_Novels.resources
+C:\Users\t00126681\Desktop\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Properties.Resources.resources
+C:\Users\t00126681\Desktop\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Reader_Controls.resources
+C:\Users\t00126681\Desktop\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Reader_Purchase_Analysis.resources
+C:\Users\t00126681\Desktop\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Register_Member.resources
+C:\Users\t00126681\Desktop\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Remove_Novel.resources
+C:\Users\t00126681\Desktop\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Upload_Novel.resources
+C:\Users\t00126681\Desktop\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.csproj.GenerateResource.Cache
+L:\visual studio\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.exe.config
+L:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.exe
+L:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.pdb
+L:\visual studio\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.exe
+L:\visual studio\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.pdb
+L:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.csprojResolveAssemblyReference.cache
+L:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Author_Controls.resources
+L:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Author_Income_Analysis.resources
+L:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Category.resources
+L:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Details.resources
+L:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Status.resources
+L:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Novel_Price.resources
+L:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Download_Novel.resources
+L:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Form1.resources
+L:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Hybrid_Controls.resources
+L:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.List_Members.resources
+L:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.List_Novels.resources
+L:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Properties.Resources.resources
+L:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Reader_Controls.resources
+L:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Reader_Purchase_Analysis.resources
+L:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Register_Member.resources
+L:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Remove_Novel.resources
+L:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Upload_Novel.resources
+L:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.csproj.GenerateResource.Cache
+I:\visual studio\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.exe.config
+I:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.exe
+I:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.pdb
+I:\visual studio\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.exe
+I:\visual studio\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.pdb
+I:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.csprojResolveAssemblyReference.cache
+I:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Author_Controls.resources
+I:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Author_Income_Analysis.resources
+I:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Category.resources
+I:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Details.resources
+I:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Status.resources
+I:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Novel_Price.resources
+I:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Download_Novel.resources
+I:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Form1.resources
+I:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Hybrid_Controls.resources
+I:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.List_Members.resources
+I:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.List_Novels.resources
+I:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Properties.Resources.resources
+I:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Reader_Controls.resources
+I:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Reader_Purchase_Analysis.resources
+I:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Register_Member.resources
+I:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Remove_Novel.resources
+I:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Upload_Novel.resources
+I:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.csproj.GenerateResource.Cache
+G:\visual studio\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.exe.config
+G:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.exe
+G:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.pdb
+G:\visual studio\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.exe
+G:\visual studio\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.pdb
+G:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.csprojResolveAssemblyReference.cache
+G:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Author_Controls.resources
+G:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Author_Income_Analysis.resources
+G:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Category.resources
+G:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Details.resources
+G:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Status.resources
+G:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Novel_Price.resources
+G:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Download_Novel.resources
+G:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Form1.resources
+G:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Hybrid_Controls.resources
+G:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.List_Members.resources
+G:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.List_Novels.resources
+G:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Properties.Resources.resources
+G:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Reader_Controls.resources
+G:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Reader_Purchase_Analysis.resources
+G:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Register_Member.resources
+G:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Remove_Novel.resources
+G:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Upload_Novel.resources
+G:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.csproj.GenerateResource.Cache
+E:\visual studio\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.exe.config
+E:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.exe
+E:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.pdb
+E:\visual studio\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.exe
+E:\visual studio\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.pdb
+E:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.csprojResolveAssemblyReference.cache
+E:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Author_Controls.resources
+E:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Author_Income_Analysis.resources
+E:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Category.resources
+E:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Details.resources
+E:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Status.resources
+E:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Novel_Price.resources
+E:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Download_Novel.resources
+E:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Form1.resources
+E:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Hybrid_Controls.resources
+E:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.List_Members.resources
+E:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.List_Novels.resources
+E:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Properties.Resources.resources
+E:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Reader_Controls.resources
+E:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Reader_Purchase_Analysis.resources
+E:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Register_Member.resources
+E:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Remove_Novel.resources
+E:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Upload_Novel.resources
+E:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.csproj.GenerateResource.Cache
+O:\visual studio\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.exe.config
+O:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.exe
+O:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.pdb
+O:\visual studio\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.exe
+O:\visual studio\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.pdb
+O:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.csprojResolveAssemblyReference.cache
+O:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Author_Controls.resources
+O:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Author_Income_Analysis.resources
+O:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Category.resources
+O:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Details.resources
+O:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Status.resources
+O:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Novel_Price.resources
+O:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Download_Novel.resources
+O:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Form1.resources
+O:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Hybrid_Controls.resources
+O:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.List_Members.resources
+O:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.List_Novels.resources
+O:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Properties.Resources.resources
+O:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Reader_Controls.resources
+O:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Reader_Purchase_Analysis.resources
+O:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Register_Member.resources
+O:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Remove_Novel.resources
+O:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Upload_Novel.resources
+O:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.csproj.GenerateResource.Cache
+H:\visual studio\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.exe.config
+H:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.exe
+H:\visual studio\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.exe
+H:\visual studio\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.pdb
+H:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.csprojResolveAssemblyReference.cache
+H:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Author_Controls.resources
+H:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Author_Income_Analysis.resources
+H:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Category.resources
+H:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Details.resources
+H:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Status.resources
+H:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Novel_Price.resources
+H:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Download_Novel.resources
+H:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Form1.resources
+H:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Hybrid_Controls.resources
+H:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.List_Members.resources
+H:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.List_Novels.resources
+H:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Properties.Resources.resources
+H:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Reader_Controls.resources
+H:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Reader_Purchase_Analysis.resources
+H:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Register_Member.resources
+H:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Remove_Novel.resources
+H:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Upload_Novel.resources
+H:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.csproj.GenerateResource.Cache
+H:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.pdb
+J:\visual studio\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.exe.config
+J:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.exe
+J:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.pdb
+J:\visual studio\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.exe
+J:\visual studio\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.pdb
+J:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.csprojResolveAssemblyReference.cache
+J:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Author_Controls.resources
+J:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Author_Income_Analysis.resources
+J:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Category.resources
+J:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Details.resources
+J:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Status.resources
+J:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Novel_Price.resources
+J:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Download_Novel.resources
+J:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Form1.resources
+J:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Hybrid_Controls.resources
+J:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.List_Members.resources
+J:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.List_Novels.resources
+J:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Properties.Resources.resources
+J:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Reader_Controls.resources
+J:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Reader_Purchase_Analysis.resources
+J:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Register_Member.resources
+J:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Remove_Novel.resources
+J:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Upload_Novel.resources
+J:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.csproj.GenerateResource.Cache
+F:\visual studio\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.exe.config
+F:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.exe
+F:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.pdb
+F:\visual studio\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.exe
+F:\visual studio\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.pdb
+F:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.csprojResolveAssemblyReference.cache
+F:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Author_Controls.resources
+F:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Author_Income_Analysis.resources
+F:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Category.resources
+F:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Details.resources
+F:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Status.resources
+F:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Novel_Price.resources
+F:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Download_Novel.resources
+F:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Form1.resources
+F:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Hybrid_Controls.resources
+F:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.List_Members.resources
+F:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.List_Novels.resources
+F:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Properties.Resources.resources
+F:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Reader_Controls.resources
+F:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Reader_Purchase_Analysis.resources
+F:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Register_Member.resources
+F:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Remove_Novel.resources
+F:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Upload_Novel.resources
+F:\visual studio\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.csproj.GenerateResource.Cache
+C:\Users\SoftwareDev\OneDrive\GitHub\SoftwareEng\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.exe.config
+C:\Users\SoftwareDev\OneDrive\GitHub\SoftwareEng\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.exe
+C:\Users\SoftwareDev\OneDrive\GitHub\SoftwareEng\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.pdb
+C:\Users\SoftwareDev\OneDrive\GitHub\SoftwareEng\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.exe
+C:\Users\SoftwareDev\OneDrive\GitHub\SoftwareEng\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.pdb
+C:\Users\SoftwareDev\OneDrive\GitHub\SoftwareEng\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.csprojResolveAssemblyReference.cache
+C:\Users\SoftwareDev\OneDrive\GitHub\SoftwareEng\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Author_Controls.resources
+C:\Users\SoftwareDev\OneDrive\GitHub\SoftwareEng\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Category.resources
+C:\Users\SoftwareDev\OneDrive\GitHub\SoftwareEng\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Details.resources
+C:\Users\SoftwareDev\OneDrive\GitHub\SoftwareEng\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Status.resources
+C:\Users\SoftwareDev\OneDrive\GitHub\SoftwareEng\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Novel_Price.resources
+C:\Users\SoftwareDev\OneDrive\GitHub\SoftwareEng\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Download_Novel.resources
+C:\Users\SoftwareDev\OneDrive\GitHub\SoftwareEng\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Form1.resources
+C:\Users\SoftwareDev\OneDrive\GitHub\SoftwareEng\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Hybrid_Controls.resources
+C:\Users\SoftwareDev\OneDrive\GitHub\SoftwareEng\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.List_Members.resources
+C:\Users\SoftwareDev\OneDrive\GitHub\SoftwareEng\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.List_Novels.resources
+C:\Users\SoftwareDev\OneDrive\GitHub\SoftwareEng\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Properties.Resources.resources
+C:\Users\SoftwareDev\OneDrive\GitHub\SoftwareEng\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Reader_Controls.resources
+C:\Users\SoftwareDev\OneDrive\GitHub\SoftwareEng\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Register_Member.resources
+C:\Users\SoftwareDev\OneDrive\GitHub\SoftwareEng\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Remove_Novel.resources
+C:\Users\SoftwareDev\OneDrive\GitHub\SoftwareEng\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Upload_Novel.resources
+C:\Users\SoftwareDev\OneDrive\GitHub\SoftwareEng\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.csproj.GenerateResource.Cache
+C:\Users\SoftwareDev\OneDrive\GitHub\SoftwareEng\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Top_Up_Credit.resources
+C:\Users\SoftwareDev\OneDrive\GitHub\SoftwareEng\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.IncomeAnalysis.resources
+C:\Users\SoftwareDev\OneDrive\GitHub\SoftwareEng\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.PurchaseAnalysis.resources
+G:\New folder\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.exe.config
+G:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.exe
+G:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.pdb
+G:\New folder\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.exe
+G:\New folder\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.pdb
+G:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.csprojResolveAssemblyReference.cache
+G:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Author_Controls.resources
+G:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Category.resources
+G:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Details.resources
+G:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Status.resources
+G:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Novel_Price.resources
+G:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Download_Novel.resources
+G:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Form1.resources
+G:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Hybrid_Controls.resources
+G:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.IncomeAnalysis.resources
+G:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.List_Members.resources
+G:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.List_Novels.resources
+G:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Properties.Resources.resources
+G:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.PurchaseAnalysis.resources
+G:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Reader_Controls.resources
+G:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Register_Member.resources
+G:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Remove_Novel.resources
+G:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Top_Up_Credit.resources
+G:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Upload_Novel.resources
+G:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.csproj.GenerateResource.Cache
+F:\New folder\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.exe.config
+F:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.exe
+F:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.pdb
+F:\New folder\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.exe
+F:\New folder\GraphicNovelSys\GraphicNovelSys\bin\Debug\GraphicNovelSys.pdb
+F:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.csprojResolveAssemblyReference.cache
+F:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Author_Controls.resources
+F:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Category.resources
+F:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Details.resources
+F:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Member_Status.resources
+F:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Change_Novel_Price.resources
+F:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Download_Novel.resources
+F:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Form1.resources
+F:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Hybrid_Controls.resources
+F:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.IncomeAnalysis.resources
+F:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.List_Members.resources
+F:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.List_Novels.resources
+F:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Properties.Resources.resources
+F:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.PurchaseAnalysis.resources
+F:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Reader_Controls.resources
+F:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Register_Member.resources
+F:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Remove_Novel.resources
+F:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Top_Up_Credit.resources
+F:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.Upload_Novel.resources
+F:\New folder\GraphicNovelSys\GraphicNovelSys\obj\Debug\GraphicNovelSys.csproj.GenerateResource.Cache
